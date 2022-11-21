@@ -7,4 +7,13 @@
 }
 
 .conteiner {
+    width: 350px;
+    height: 500px;
+    background:  hsl(216, 50%, 16%);
+    display: flex;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 2px solid trasnparent;
+    padding: 10px;
+    border-radius: 25px;
 }
