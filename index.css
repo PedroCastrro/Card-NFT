@@ -17,3 +17,43 @@
     padding: 10px;
     border-radius: 25px;
 }
+
+#equilibrium {
+    width: 350px;
+    height: 280px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+
+#avatar {
+    width: 60px;
+    height: 50px;
+    display: flex;
+    margin-top: 430px;
+    position: absolute;
+    border-radius: 50px;    
+    border: 2px solid white;
+
+}
+
+#icon {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin-top: 350px;
+    position: absolute;
+    border-radius: 50px;    
+    
+}
+
+#clock {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin-top: 350px;
+    margin-left: 200px;
+    position: absolute;
+    border-radius: 50px;    
+    
+}
