@@ -19,7 +19,6 @@ A aplicação consiste em uma landing page de compra de NTF
 ## Implantação em produção
 - Front end web: Netlify
 
-# Como executar o projeto
 
 ## Front end web
 Pré-requisitos: npm / yarn
